@@ -15,6 +15,7 @@ list aplikasi
 1. peremove bg gambar: remove.bg
 2. blobmaker.app
 3. simpleicons.org
+4. https://commons.wikimedia.org/wiki/File:Traveloka.com_Icon_2022.svg
 
 tips & trick
 
